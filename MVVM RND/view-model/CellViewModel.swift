@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct CellViewModel {
+    let firstName: String
+    let lastName: String
+}
