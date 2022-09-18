@@ -15,6 +15,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
         Person(firstName: "Hannan", lastName: "Talukder", age: 27, height: 155),
         Person(firstName: "Jakia", lastName: "Talukder", age: 23, height: 144),
         Person(firstName: "Hannan", lastName: "Talukder", age: 27, height: 155),
+        Person(firstName: "Jakia", lastName: "Talukder", age: 23, height: 144),
         Person(firstName: "Jakia", lastName: "Talukder", age: 23, height: 144)
     ]
     
